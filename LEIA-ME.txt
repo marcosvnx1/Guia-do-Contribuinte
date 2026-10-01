@@ -1,0 +1,15 @@
+GUIA DO CONTRIBUINTE DE ARACAJU
+
+Abra index.html no navegador. A página e a pesquisa funcionam sem instalação.
+
+Este pacote contém 31 seções e 322 perguntas do sumário do guia de São Paulo de 2013, com títulos e orientações adaptados para Aracaju. O anexo foi convertido em contatos locais.
+
+A versão é uma minuta para revisão da SEMFAZ. Valores, prazos, regras, documentos obrigatórios e benefícios precisam de validação municipal antes da publicação oficial. Tópicos paulistanos sem equivalente confirmado estão sinalizados no guia.
+
+Para integrar ao portal, publique index.html, style.css, app.js, guide-data.js e a pasta assets no mesmo diretório. Os caminhos são relativos. A navegação por assunto usa fragmentos de endereço.
+
+O arquivo revisao/cobertura-topicos.csv mostra cada título e pergunta original, sua página impressa no PDF e seu correspondente no guia. Esse arquivo é de apoio à revisão e não precisa ser publicado no portal.
+
+A página não armazena nem transmite dados pessoais. Serviços de emissão, login e solicitações são acessados pelos links oficiais.
+
+Após a validação do conteúdo, atualize a versão e retire a indicação de minuta e a meta robots noindex,nofollow se o portal deva ser indexado.
